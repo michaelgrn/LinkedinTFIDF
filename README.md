@@ -1,2 +1,2 @@
 # LinkedinTFIDF
-A small project designed to evaluate the TFIDF values extracted from Linkedin job postings.
+It is common knowledge that keywords are an important part of job listings and resume writing. Given this ground truth, I have decided to collect a corpus of jobs that I have applied to and peform a TF-IDF analysis on this corpus. The results of this experiment give me insight into the common keywords being used in the jobs that I have applied to and can be applied to the crafting of my resume and cover letters. 
